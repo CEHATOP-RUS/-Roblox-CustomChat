@@ -17,6 +17,6 @@ INFO:
 IMPORTANT:
 - Script doesn't use Roblox TextChatService. May be against TOS!
 - Player messages can't be bigger than 5 lines because of 100px TextLabel limit!
-- Report any bugs via the following links
-Roblox Studio Forum: https://devforum.roblox.com/t/custom-chat-system/4216184
-Discord Server related to my another project: https://discord.gg/bd9UvmaJhS
+- Report any bugs via the following links:
+- Roblox Studio Forum: https://devforum.roblox.com/t/custom-chat-system/4216184
+- Discord Server related to my another project: https://discord.gg/bd9UvmaJhS
