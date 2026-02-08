@@ -1,18 +1,19 @@
-CustomChat V1.3 by @CEHATOP_PYCC
+CustomChat V1.4 by @CEHATOP_PYCC
 How to use:
 1) Place "CustomChat" script in "ServerScriptService"
-2) You can configure custom chat in "CustomChat" script (look for "CUSTOM CHAT CONFIGURATION")
+2) You can configure custom chat in CustomChat_GUI -> CONFIGURATION
 3) You can change sounds in CustomChat -> CustomChat_GUI -> Sounds
 4) You can leave feedback in Discord: https://discord.gg/bd9UvmaJhS
 
 INFO:
 - Supports optional filtering AND filtering whitelist (recommended to leave filtering active; disabled filtering) is against Roblox TOS!
 - Resizes depending on screen resolution
-- Supports roblox chat colors
+- Supports roblox chat colors and team colors
 - Supports system messages
 - Supports private messages
 - Supports commands
 - Includes customizable UI sounds
+- Supports HTML text formatting
 
 IMPORTANT:
 - Script doesn't use Roblox TextChatService. May be against TOS!
