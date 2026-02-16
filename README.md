@@ -1,4 +1,4 @@
-CustomChat V1.4 by @CEHATOP_PYCC
+CustomChat V1.4.5 by @CEHATOP_PYCC
 How to use:
 1) Place "CustomChat" script in "ServerScriptService"
 2) You can configure custom chat in CustomChat_GUI -> CONFIGURATION
